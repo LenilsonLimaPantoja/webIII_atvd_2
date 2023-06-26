@@ -1,0 +1,2 @@
+<h2>Olá <?php echo e($data['fromName']); ?>, você recebeu uma mensagem de <?php echo e($data['fromUser']); ?> referente a sua locação</h2>
+<p><?php echo e($data['message']); ?></p><?php /**PATH C:\Users\Lenilson Lima\Desktop\webIII_atvd_2\resources\views/email.blade.php ENDPATH**/ ?>
